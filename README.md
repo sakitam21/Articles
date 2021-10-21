@@ -8,4 +8,5 @@
 ### 13.JavaScript 专题之函数柯里化
 ## 三、ES系列目录
 ### 1.ES6 系列之let和const
+### 2.ES6 系列之模版字符串
 ### 8.ES6 系列之我们来聊聊 Promise
